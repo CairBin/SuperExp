@@ -1,0 +1,10 @@
+{
+    "consoleLogo":"superexp",
+    "remote":"https://github.com/CairBin/ExpressTemplate.git",
+    "branch":"main",
+    "registry":"https://registry.npmjs.org/",
+    "mirror":{
+        "registry":"https://registry.npm.taobao.org/",
+        "remote":"https://gitcode.net/qq_42759112/ExpressTemplate.git"
+    }
+}

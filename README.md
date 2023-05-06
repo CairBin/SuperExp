@@ -43,3 +43,5 @@ For example, `superexp create -h`
 ## Other
 There are two ways for this tool to obtain templates: remote and local.
 For `remote`, if **Git** is not installed on the user's device, download the compressed package through the **zip** instead of using git clone.
+
+You can refer to the `README.md` file of template to get its usage.

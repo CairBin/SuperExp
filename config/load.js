@@ -17,6 +17,7 @@ const mapToChoice = (mapper) => {
             value:val
         }
         choicesArray.push(item)
+        
     })
 
     return choicesArray

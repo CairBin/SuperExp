@@ -17,15 +17,15 @@
                         "clone":"https://gitcode.net/qq_42759112/ExpressTemplate.git#main",
                         "zip":"https://gitcode.net/qq_42759112/ExpressTemplate/-/archive/main/ExpressTemplate-main.zip"
                     }
-                },
-                "ExpressTemplate-ESM":{
-                    "clone":"https://github.com/CairBin/ScaffoldMaker.git#main",
-                    "zip":"https://codeload.github.com/CairBin/ScaffoldMaker/zip/refs/heads/main",
-                    "mirrors":{
-                        "GitCode":{
-                            "clone":"https://gitcode.net/qq_42759112/ExpressTemplate-ESM.git#main",
-                            "zip":"https://gitcode.net/qq_42759112/ExpressTemplate-ESM/-/archive/main/ExpressTemplate-ESM-main.zip"
-                        }
+                }
+            },
+            "ExpressTemplate-ESM":{
+                "clone":"https://github.com/CairBin/ScaffoldMaker.git#main",
+                "zip":"https://codeload.github.com/CairBin/ScaffoldMaker/zip/refs/heads/main",
+                "mirrors":{
+                    "GitCode":{
+                        "clone":"https://gitcode.net/qq_42759112/ExpressTemplate-ESM.git#main",
+                        "zip":"https://gitcode.net/qq_42759112/ExpressTemplate-ESM/-/archive/main/ExpressTemplate-ESM-main.zip"
                     }
                 }
             }

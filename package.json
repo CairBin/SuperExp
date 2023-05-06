@@ -1,6 +1,6 @@
 {
     "name": "superexp",
-    "version": "2.0.2",
+    "version": "2.0.4",
     "description": "This is a tool for generating templates.",
     "main": "index.js",
     "bin": {
@@ -9,7 +9,11 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "keywords": [],
+    "repository": {
+        "type":"git",
+        "url":"https://github.com/cairbin/SuperExp.git"
+    },
+    "keywords": ["express","mustache"],
     "author": "cairbin",
     "license": "MIT",
     "dependencies": {

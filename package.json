@@ -1,6 +1,6 @@
 {
     "name": "superexp",
-    "version": "2.0.1",
+    "version": "2.0.2",
     "description": "This is a tool for generating templates.",
     "main": "index.js",
     "bin": {
